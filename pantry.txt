@@ -1,0 +1,14 @@
+Bread 0.000000 slice
+Canola Oil 0.340000 cup
+Egg 4.000000 -
+Flour 4.250000 cup
+Flour Tortilla 10.000000 -
+Ham 15.000000 slice
+Milk 9.500000 cup
+Pepper 2.000000 tsp
+Rice 3.000000 cup
+Salt 9.500000 tsp
+Sliced Cheese 3.000000 slice
+Sugar 4.670000 cup
+Water 9999.500000 cup
+Yeast 4.000000 tbsp

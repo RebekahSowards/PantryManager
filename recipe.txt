@@ -1,0 +1,26 @@
+Cheese Sandwich 3
+Bread 2.000000 slice
+Ham 2.000000 slice
+Mayonnaise 1.000000 tbsp
+Sliced cheese 1.000000 slice
+
+Dinner Rolls 150
+Canola Oil 0.330000 cup
+Egg 1.000000 -
+Flour 3.750000 cup
+Milk 0.500000 cup
+Salt 0.500000 tsp
+Sugar 0.330000 cup
+Water 0.500000 cup
+Yeast 1.000000 tbsp
+
+Ham Sandwich 3
+Bread 2.000000 slice
+Ham 2.000000 slice
+Mayonnaise 1.000000 tbsp
+Sliced cheese 1.000000 slice
+
+Rice 40
+Bread 1.000000 slice
+Rice 1.000000 cup
+
